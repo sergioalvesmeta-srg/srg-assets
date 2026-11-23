@@ -1,0 +1,2 @@
+# srg-assets
+SRG Logo
